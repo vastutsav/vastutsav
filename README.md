@@ -8,7 +8,7 @@ I am here to explore and experiment.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vastutsav&hide=contribs,prs,issues&show_icons=true&hide_rank=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastutsav&langs_count=10)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastutsav&langs_count=10)
 
 <!--
 Here are some ideas to get you started: (will fill them up later)
