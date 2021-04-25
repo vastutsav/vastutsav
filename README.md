@@ -3,9 +3,7 @@
 <!--
 **vastutsav/vastutsav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vastutsav)]
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vastutsav)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vastutsav&hide=contribs,prs)
 
 Here are some ideas to get you started: (will fill them up later)
 
