@@ -7,7 +7,7 @@
 - I am here to explore and experiment.
 - I enjoy programming, music, reading and socializing.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vastutsav&hide=contribs&show_icons=true&hide_rank=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vastutsav&hide=contribs&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastutsav&langs_count=15)
 
