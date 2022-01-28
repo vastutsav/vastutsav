@@ -11,6 +11,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastutsav&langs_count=15)
 
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=vastutsav)
+
 <!--
 Here are some ideas to get you started: (will fill them up later)
 
