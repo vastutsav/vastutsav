@@ -7,11 +7,11 @@
 - I am here to explore and experiment.
 - I enjoy programming, music, reading and socializing.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vastutsav&hide=contribs&show_icons=true&count_private=true&include_all_commits=true) 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vastutsav&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastutsav&langs_count=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vastutsav&langs_count=15&theme=tokyonight)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=vastutsav)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=vastutsav&theme=tokyonight)
 
 
 
